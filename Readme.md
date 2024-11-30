@@ -1,3 +1,3 @@
 # Chromecast Volume Control GUI
 
-![docs/screenshot.jpg]()
+![https://github.com/iandennismiller/cc-volume/blob/main/docs/screenshot.jpg?raw=true]()
