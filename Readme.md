@@ -1,5 +1,10 @@
 # Chromecast Volume Control GUI
 
-![](https://github.com/iandennismiller/cc-volume/blob/main/docs/screenshot.jpg?raw=true)
+A simple Chromecast Volume Control GUI.
 
 ![](docs/screenshot.jpg)
+
+Now you can change your volume from your laptop.
+
+Implemented with tkinter. Works on MacOS.
+
